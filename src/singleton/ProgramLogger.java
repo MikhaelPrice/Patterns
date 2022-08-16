@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 public class ProgramLogger {
     private static ProgramLogger programLogger;
@@ -21,4 +21,5 @@ public class ProgramLogger {
         }
         return programLogger;
     }
+
 }
